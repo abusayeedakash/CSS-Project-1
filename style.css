@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.flag {
+    background: green;
+    height: 200px;
+    width: 400px;
+    text-align: center;
+    padding: 50px;
+    margin: 50px 50px;
+    box-shadow: 1px 10px rgb(67, 60, 60);
+    
+}
+
+.lal {
+    background: red;
+    height: 200px;
+    width: 150px;
+    border-radius: 50%;
+    display: inline-block;
+}
